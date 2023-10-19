@@ -1,0 +1,126 @@
+<mxfile host="Electron" modified="2023-10-19T18:01:31.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="wE5Tyt2UkGT3WbkaTaMQ" version="22.0.3" type="device">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1036" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#f10404;" parent="1" source="7" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.5" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Elector gives &#xa;Electoral card to the&#xa;Station president" style="" parent="1" vertex="1">
+          <mxGeometry x="475" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="15" target="16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="225" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="5" target="7" edge="1">
+          <mxGeometry x="264.5" y="168" as="geometry">
+            <mxPoint x="279.5" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="Elector arrives at &#xa;the polling station" style="" parent="1" vertex="1">
+          <mxGeometry x="185" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="President&#xa;Checks Polling&#xa;Station Number" style="" parent="1" vertex="1">
+          <mxGeometry x="480" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="16" target="21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#f50a0a;" parent="1" source="21" target="GoZGdcvMeMQkUJFM6HY1-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="&#xa;Correct&#xa;" style="rhombus;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="690" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="yes" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21" target="18" edge="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="635" y="453" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Checks Identity &#xa;Document" style="" parent="1" vertex="1">
+          <mxGeometry x="950" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#f10909;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-44" target="33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-44" value="Waits for&#xa;Cabin to get free" style="" parent="1" vertex="1">
+          <mxGeometry x="580" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="1" source="33" target="GoZGdcvMeMQkUJFM6HY1-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="President gives a &#xa;pencil to an elector&#xa;and a Secretary" style="" parent="1" vertex="1">
+          <mxGeometry x="420" y="220" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#f80d0d;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-47" target="GoZGdcvMeMQkUJFM6HY1-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-47" value="Secretary&#xa;signs the registry&#xa;and put a print on &#xa;the elector certificate" style="" parent="1" vertex="1">
+          <mxGeometry x="210" y="220" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-45" value="End the Check" style="" parent="1" vertex="1">
+          <mxGeometry x="675" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="1" vertex="1">
+          <mxGeometry x="845" y="358" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#f90b0b;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-51" target="GoZGdcvMeMQkUJFM6HY1-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-51" value="Elector votes" style="" parent="1" vertex="1">
+          <mxGeometry x="210" y="358" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#fb0909;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-52" target="GoZGdcvMeMQkUJFM6HY1-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-52" value="He/she inserts ballot&#xa;in the Urn" style="" parent="1" vertex="1">
+          <mxGeometry x="420" y="358" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#fa0505;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-55" target="38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-55" value="gives back the pencil&lt;br&gt;and takes back his/her ID document" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="346.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#fb0909;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-64" target="GoZGdcvMeMQkUJFM6HY1-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#fd0808;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-64" target="GoZGdcvMeMQkUJFM6HY1-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-64" value="CORRECT" style="rhombus;fillColor=#000000;strokeColor=#f40606;" parent="1" vertex="1">
+          <mxGeometry x="930" y="235" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#f40606;" parent="1" source="GoZGdcvMeMQkUJFM6HY1-67" target="GoZGdcvMeMQkUJFM6HY1-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-67" value="Gives back the&#xa;Ballot Paper to&#xa;the Elector" style="" parent="1" vertex="1">
+          <mxGeometry x="765" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-68" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="880" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-70" value="End Check" style="whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#f2eded;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="225" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GoZGdcvMeMQkUJFM6HY1-72" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9lEez7OY1t_uaWwCUex-38" value="Voting System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-5" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
